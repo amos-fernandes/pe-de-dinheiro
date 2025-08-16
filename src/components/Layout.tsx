@@ -30,8 +30,8 @@ export default function Layout({ children }: LayoutProps) {
               <div className="flex items-center gap-4">
                 <SidebarTrigger className="text-muted-foreground hover:text-foreground" />
                 <div>
-                  <h1 className="text-xl font-bold text-foreground">BIA Trading Platform</h1>
-                  <p className="text-sm text-muted-foreground">Powered by ATCoin Intelligence</p>
+                  <h1 className="text-xl font-bold text-foreground">Pé de Dinheiro</h1>
+                  <p className="text-sm text-muted-foreground">Powered by VerticalAgent AI Intelligence</p>
                 </div>
               </div>
               

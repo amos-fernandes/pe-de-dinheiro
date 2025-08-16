@@ -104,9 +104,9 @@ export default function Login() {
             </div>
           </div>
           <div>
-            <CardTitle className="text-2xl font-bold text-foreground">BIA Trading Platform</CardTitle>
+            <CardTitle className="text-2xl font-bold text-foreground">Pé de Dinheiro</CardTitle>
             <CardDescription className="text-muted-foreground mt-2">
-              Sistema Inteligente de Trading com IA
+              Jeito Inteligente de fazer dinheiro com IA
             </CardDescription>
           </div>
         </CardHeader>
